@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CorinaVizitiu/React-Calculator.git/static/css/main.7a96755b.css",
+    "main.js": "/CorinaVizitiu/React-Calculator.git/static/js/main.540a47b5.js",
+    "static/js/787.a174f9e5.chunk.js": "/CorinaVizitiu/React-Calculator.git/static/js/787.a174f9e5.chunk.js",
+    "index.html": "/CorinaVizitiu/React-Calculator.git/index.html",
+    "main.7a96755b.css.map": "/CorinaVizitiu/React-Calculator.git/static/css/main.7a96755b.css.map",
+    "main.540a47b5.js.map": "/CorinaVizitiu/React-Calculator.git/static/js/main.540a47b5.js.map",
+    "787.a174f9e5.chunk.js.map": "/CorinaVizitiu/React-Calculator.git/static/js/787.a174f9e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a96755b.css",
+    "static/js/main.540a47b5.js"
+  ]
+}
