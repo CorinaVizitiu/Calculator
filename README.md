@@ -1,1 +1,1 @@
-# React-Calculator https://corinavizitiu.github.io/React-Calculator/
+# React-Calculator https://corinavizitiu.github.io/Calculator/
